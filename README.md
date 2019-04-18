@@ -1,2 +1,4 @@
 # hello-world
 What is Triple Willow doing on here towards our Mission to "provide quality mental health services to individuals typically without this type of access while fostering the new generation of providers through internship, residency, and continuing education opportunities.
+The main purpose is to develop an open source EMR to fit our non-profit mental health clinic needs as we grow and expand our services. The costs of EMR, Billing, Coding, Portals, etc has created such a hurdle for providers to adequately provide services to their patients without headache of wondering if they are going to be able to be compensated by the insuarnce providers.
+We at TWMH plan to begin with EMR and records management first as we continue to develop additional features to provide additional services.
